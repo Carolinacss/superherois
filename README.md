@@ -59,6 +59,5 @@ Aqui temos o botão para voltar de uma activity para outra com o intent, também
 
 ### Vídeo do aplicativo 
 
-
 https://github.com/Carolinacss/repositorioprovisorio/assets/127458533/271fc4a2-bb41-4f1e-a72b-3e3a9fafadfa
 
